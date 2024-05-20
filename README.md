@@ -1,0 +1,1 @@
+The Robot Navigation Game is a puzzle game where players guide a robot through a 3x3 grid to reach a goal room from a starting point. Implemented in Python, the game employs uniform cost search and A* search algorithms for finding the shortest path. It features a simple user interface and ensures efficient gameplay by limiting node expansions.
